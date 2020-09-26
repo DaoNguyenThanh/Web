@@ -1,0 +1,121 @@
+body{
+    margin: 0;
+    height:100%;
+    
+}
+
+div.full
+{
+    
+    height:100%;
+
+}
+.hinh
+{ 
+  position: fixed;
+  background-color: rgb(6, 93, 128);;
+  height: 100%;
+  width: 20%;
+}
+
+.right
+{
+    float:right;
+    
+    background-color:lightblue;
+    height: 10000px;
+    width: 80%
+    
+}
+
+.backright
+{  
+    margin-left:5%;
+
+    
+}
+
+
+.facebook-link 
+{
+    font-size: 60px !important;
+}
+
+.vien
+{
+    border:darkblue;
+    background-color:yellow;
+    border-radius: 95px;
+    width:250px ;
+    height: 200px;    
+    margin-left:  5%;
+}
+div img
+{   margin-left:15%;
+    border-radius:100% ;
+    border: rgb(11, 11, 243);
+    width:230px ;
+    height: 200px;
+    margin-left:2%;
+}
+h1.so1{
+    font-size:70px;
+    display: inline;
+}
+h1.so2{
+    font-size:70px;
+    display: inline;
+    color:darkblue;
+}
+ul{
+padding-left:10px;
+width:420px;
+}
+li
+{   list-style: none;
+    border-radius: 30px 70px 70px 30px;
+    background-color: tomato;
+    font-size: 20px;
+    margin-bottom:30px;
+    text-align: center;
+    width: 60%;
+    margin-left:3%;
+}
+.download 
+{   position: fixed;
+    border-radius:30px 70px 70px 30px;
+    background-color: tomato;
+    font-size:20px;
+    margin-top: 50px;
+    padding-left:10px ;
+    margin-left: 10px;
+    text-align: center;
+    width: 18%;
+}
+.DL 
+{
+    text-decoration:none;
+}
+.day
+{
+    float: right;
+    margin-right: 20%;
+    padding-bottom: 50%;
+}
+.menu 
+{
+    position: fixed;
+    padding-top:3%;
+}
+.ndung {
+    font-size: 20px;
+
+}
+.ndung2
+{
+    font-size: 20px;
+}
+.ndung3
+{
+    font-size: 20px;
+}
